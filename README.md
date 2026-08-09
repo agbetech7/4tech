@@ -1,4 +1,4 @@
-<h1><br/><a href="https://www.linkedin.com/in/adf83/">Aspiring Information Technology Professional</a></h1>
+<h1><br/><a href="https://www.linkedin.com/in/adf00/">Aspiring Information Technology Professional</a></h1>
 
 
 <h2>👨🏿‍💻 Home Lab Projects:</h2>
@@ -8,15 +8,19 @@
   
   - [Active Directory Lab](https://github.com/4cysec/Active-Directory-Lab/tree/main)
 
+ <h3>Cybersecurity Projects</h3>
+  
   - [Endpoint Detection and Response Lab](https://github.com/4cysec/Endpoint-Detection-and-Response)
 
   - [Vulnerability Management Lab](https://github.com/4cysec/Vulnerability-Management-Lab)
 
+ <h3>Microsoft Azure Cloud Projects</h3>
+  
   - [Creating Virtual Machines in Azure](https://github.com/4cysec/Virtual-Machines-In-Azure/tree/main)
 
 
-<h2> 🤳🏿 Connect with me:</h2>
+<h2> 🤳🏿 Let's Connect!:</h2>
 
 [<img align="left" alt="AndyFlambert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/adf83
+[linkedin]: https://linkedin.com/in/adf00
