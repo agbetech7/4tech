@@ -3,9 +3,11 @@
 
 <h2>👨🏿‍💻 Home Lab Projects:</h2>
 
-  - [Endpoint Detection and Response Lab](https://github.com/4cysec/Endpoint-Detection-and-Response)
-
+ 
+  <h3>👨🏿‍💻 Home Lab Projects:</h3>
   - [Active Directory Lab](https://github.com/4cysec/Active-Directory-Lab/tree/main)
+
+  - [Endpoint Detection and Response Lab](https://github.com/4cysec/Endpoint-Detection-and-Response)
 
   - [Vulnerability Management Lab](https://github.com/4cysec/Vulnerability-Management-Lab)
 
