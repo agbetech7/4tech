@@ -6,18 +6,20 @@
  
   <h3>IT Admin/IT Support Projects</h3>
   
-  - [Active Directory Lab](https://github.com/4cysec/Active-Directory-Lab/tree/main)-Setup, Automating User Additions
-  - [Active Directory Lab]()
+  - [Active Directory Lab-Setup, Automating User Additions](https://github.com/4cysec/Active-Directory-Lab/tree/main)
+  - [Active Directory Lab-Changing/Resetting Password, Disabling Account]()
 
+  <h3>Microsoft Azure Cloud Projects</h3>
+  
+  - [Creating Virtual Machines in Azure Part1](https://github.com/4cysec/Virtual-Machines-In-Azure/tree/main)
+ 
  <h3>Cybersecurity Projects</h3>
   
   - [Endpoint Detection and Response Lab](https://github.com/4cysec/Endpoint-Detection-and-Response)
 
   - [Vulnerability Management Lab](https://github.com/4cysec/Vulnerability-Management-Lab)
 
- <h3>Microsoft Azure Cloud Projects</h3>
-  
-  - [Creating Virtual Machines in Azure](https://github.com/4cysec/Virtual-Machines-In-Azure/tree/main)
+
 
 
 <h2> 🤳🏿 Let's Connect!:</h2>
