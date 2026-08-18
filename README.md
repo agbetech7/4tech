@@ -1,7 +1,7 @@
 <h1><br/><a href="https://www.linkedin.com/in/adf00/">Aspiring Information Technology Professional</a></h1>
 
 
-<h2>👨🏿‍💻 Home Lab Projects:</h2>
+<h2>👨🏿‍💻 Home Lab Projects</h2>
 
  
   <h3>IT Admin/IT Support Projects</h3>
